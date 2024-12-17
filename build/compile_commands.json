@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jt89282/projects/ProjectTemplate/build/app",
+  "command": "/usr/bin/g++   -g -flto -fno-fat-lto-objects -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -std=c++17 -o CMakeFiles/ConsoleApp.dir/main.cpp.o -c /home/jt89282/projects/ProjectTemplate/app/main.cpp",
+  "file": "/home/jt89282/projects/ProjectTemplate/app/main.cpp"
+}
+]

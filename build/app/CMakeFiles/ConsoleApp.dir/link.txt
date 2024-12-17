@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -flto -fno-fat-lto-objects -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined CMakeFiles/ConsoleApp.dir/main.cpp.o -o ConsoleApp 

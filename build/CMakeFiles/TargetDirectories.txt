@@ -1,0 +1,7 @@
+/home/jt89282/projects/ProjectTemplate/build/CMakeFiles/edit_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/CMakeFiles/rebuild_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/src/CMakeFiles/edit_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/src/CMakeFiles/rebuild_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/ConsoleApp.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/edit_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/rebuild_cache.dir

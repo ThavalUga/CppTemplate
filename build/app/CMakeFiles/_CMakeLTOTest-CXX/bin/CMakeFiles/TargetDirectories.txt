@@ -1,0 +1,4 @@
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/jt89282/projects/ProjectTemplate/build/app/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
